@@ -1,0 +1,2 @@
+class SubDemo < ApplicationRecord
+end
